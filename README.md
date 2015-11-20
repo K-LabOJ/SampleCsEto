@@ -13,7 +13,7 @@ To build the sample, you are going to need:
 Notes
 --------------------
 
-* This sample using Eto, A cross platform desktop and mobile user interface framework
+* This sample using Eto, a cross platform desktop and mobile user interface framework
   https://github.com/picoe/Eto
   
 * This sample is for Rhino 5 only. Much of what is demonstrates will change in Rhino 6,
