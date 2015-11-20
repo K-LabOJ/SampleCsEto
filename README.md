@@ -14,7 +14,8 @@ Notes
 --------------------
 
 * This sample using Eto, a cross platform desktop and mobile user interface framework
-  https://github.com/picoe/Eto
+  
+https://github.com/picoe/Eto
   
 * This sample is for Rhino 5 only. Much of what is demonstrates will change in Rhino 6,
   as it includes the Eto binaries.
